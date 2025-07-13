@@ -19,6 +19,7 @@ WLED control board with intefacing options via wired Ethernet and DMX.
 - Pluggable or screw terminals for data and power supply
 - Use ESP32 or ESP32-S3
 - Use resettable or ATO fuses
+- How many LED outputs should be supplied? Usually one is sufficient. Use multiple board versions or expanders?
 
 ## Related Boards
 - https://github.com/bobko69/8PortLEDDistro
