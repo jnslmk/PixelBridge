@@ -18,7 +18,7 @@ WLED control board with intefacing options via wired Ethernet and DMX.
 - Decide whether to add buttons directly to PCB
 - Pluggable or screw terminals for data and power supply
 - Use ESP32 or ESP32-S3
-- Use resetable or ATO fuses
+- Use resettable or ATO fuses
 
 ## Related Boards
 - https://github.com/bobko69/8PortLEDDistro
